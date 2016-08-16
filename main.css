@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+}
+.section{
+    padding: 25px;
+    font-family: Roboto;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+table tr td{
+    text-align: left;
+}
+.section td{
+    padding: 2px 15px;
+}
+.color{
+    background-color: #f5f5f5;
+}
